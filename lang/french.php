@@ -1,0 +1,30 @@
+<?php
+$le_lang = array();
+$le_lang['menu_item_title'] = "Options de chiffrage d'ouverture";
+$le_lang['renew_rsa_key'] = "Remettre votre clef de RSA";
+$le_lang['renew_key_button'] = "Remettre";
+$le_lang['insert_own_primes'] = "Vos propres nombres";
+$le_lang['user_your_numbers'] = "Si vous souhaitez, vous pouvez mettre vos propres nombres principaux pour produire des clefs de RSA";
+$le_lang['number_p'] = "Nombre P:";
+$le_lang['number_q'] = "Nombre Q:";
+$le_lang['create_key'] = "Créer";
+$le_lang['rsa_keys_reseted'] = "Clefs de RSA remisés avec succès";
+$le_lang['rsa_keys_created_successfully'] = "Clefs de RSA créé avec succès";
+$le_lang['prime_numbers_wrong'] = "Les clefs de RSA ne pourraient pas etre produit avec les nombres principaux donnés";
+$le_lang['rsa_keys_saved_successfully'] = "Vos clefs de RSA ont été avec succès sauvées";
+$le_lang['rsa_keys_wrong'] = "Clefs de RSA fausse";
+$le_lang['insert_own_key'] = "Employer votre propre clef";
+$le_lang['use_your_key'] = "Si vous avez un, vous pouvez établir le système de chiffrage pour employer vos propres clefs de RSA.";
+$le_lang['use_decimal_form'] = "<b>Note:</b> Mettre la forme décimale de la clef. Si vous l'avez en forme hexadécimale, vous pouvez transformer les nombres ici:";
+$le_lang['modulus'] = "Module";
+$le_lang['public_key'] = "Clef publique";
+$le_lang['private_key'] = "Clef privée";
+$le_lang['save_key'] = "Envoyer la clef";
+$le_lang['transform_to_decimal'] = "Transformer à la décimale";
+$le_lang['cannot_transform_to_decimal'] = "Ne peut pas transformer à la décimale, invalide de format de nombre";
+$le_lang['transform'] = "Transformer";
+$le_lang['change_language'] = "Placer la langue";
+$le_lang['language'] = "Langue";
+$le_lang['change_it'] = "Changer";
+$le_lang['lang_updated'] = "La langue était mise à jour";
+?>

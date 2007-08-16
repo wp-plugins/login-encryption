@@ -1,0 +1,30 @@
+<?php
+$le_lang = array();
+$le_lang['menu_item_title'] = "Opciones de encriptaci&oacute;n del login";
+$le_lang['renew_rsa_key'] = "Generar de vuelta las claves RSA";
+$le_lang['renew_key_button'] = "Generar";
+$le_lang['insert_own_primes'] = "Usa tus propios primos";
+$le_lang['user_your_numbers'] = "Si así lo deseas, puedes usar tus propios n&uacute;meros primos para generar las claves RSA";
+$le_lang['number_p'] = "N&uacute;mero P:";
+$le_lang['number_q'] = "N&uacute;mero Q:";
+$le_lang['create_key'] = "Crear las claves";
+$le_lang['rsa_keys_reseted'] = "Las claves fueron regeneradas con &eacute;xito";
+$le_lang['rsa_keys_created_successfully'] = "Las claves fueron creadas con &eacute;xito";
+$le_lang['prime_numbers_wrong'] = "Las claves RSA no se pudieron generar a partir de los n&uacute;meros dados";
+$le_lang['rsa_keys_saved_successfully'] = "Tus claves RSA fueron grabadas";
+$le_lang['rsa_keys_wrong'] = "Claves RSA inv&aacute;lidas";
+$le_lang['insert_own_key'] = "Usa tu propia clave";
+$le_lang['use_your_key'] = "Si tienes unas, puedes establecer que el sistema de encriptado use tus claves RSA.";
+$le_lang['use_decimal_form'] = "<b>Nota:</b> Pon las claves en su forma decimal. Si las tienes en hexadecimal, puedes transformarlas aqu&iacute;:";
+$le_lang['modulus'] = "M&oacute;dulo:";
+$le_lang['public_key'] = "Clave P&uacute;blica:";
+$le_lang['private_key'] = "Clave Privada";
+$le_lang['save_key'] = "Guardar Claves";
+$le_lang['transform_to_decimal'] = "Transformar a decimal";
+$le_lang['cannot_transform_to_decimal'] = "No se pudo transformar a decimal, el formato del n&uacute;mero no es v&aacute;lido";
+$le_lang['transform'] = "Transformar";
+$le_lang['change_language'] = "Establecer lenguaje";
+$le_lang['language'] = "Lenguaje";
+$le_lang['change_it'] = "Cambiar";
+$le_lang['lang_updated'] = "Se cambi&oacute; el lenguaje";
+?>

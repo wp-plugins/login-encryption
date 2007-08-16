@@ -1,0 +1,30 @@
+<?php
+$le_lang = array();
+$le_lang['menu_item_title'] = "Opzioni di crittografia di Login";
+$le_lang['renew_rsa_key'] = "Ripristinare la vostra chiave di RSA";
+$le_lang['renew_key_button'] = "Ripristinare";
+$le_lang['insert_own_primes'] = "Le tui numeri";
+$le_lang['user_your_numbers'] = "Se vuoi, puoi sistemare i tui numeri principali per generare le chiavi RSA";
+$le_lang['number_p'] = "Numero P:";
+$le_lang['number_q'] = "Numero Q:";
+$le_lang['create_key'] = "Creare";
+$le_lang['rsa_keys_reseted'] = "Chiavi RSA ripristinate";
+$le_lang['rsa_keys_created_successfully'] = "Chiavi RSA create";
+$le_lang['prime_numbers_wrong'] = "Le chiavi RSA non si hanno potuto generare coi numeri datti.";
+$le_lang['rsa_keys_saved_successfully'] = "Tui chiavi si hanno insertato correttamente";
+$le_lang['rsa_keys_wrong'] = "Chiave RSA incorretta";
+$le_lang['insert_own_key'] = "Usa la tua chiave";
+$le_lang['use_your_key'] = "Se ne hai una, puoi metterla per essere usata nella crittografia.";
+$le_lang['use_decimal_form'] = "<b>Nota:</b> Mette la chiave nella forma decimale. Se la hai in hexadecimale, puoi transformarla qui:";
+$le_lang['modulus'] = "Modulo";
+$le_lang['public_key'] = "Chiave pubblica";
+$le_lang['private_key'] = "Chiave riservata";
+$le_lang['save_key'] = "Mettere chiave";
+$le_lang['transform_to_decimal'] = "Trasformare al decimale";
+$le_lang['cannot_transform_to_decimal'] = "Non si a potuto cambiare a decimale, il formatto dello numero non é valido";
+$le_lang['transform'] = "Transformare";
+$le_lang['change_language'] = "Scoliere la lingua";
+$le_lang['language'] = "Lingua";
+$le_lang['change_it'] = "Scoliere";
+$le_lang['lang_updated'] = "La lingua é attualizata";
+?>

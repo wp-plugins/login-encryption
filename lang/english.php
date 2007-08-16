@@ -1,0 +1,30 @@
+<?php
+$le_lang = array();
+$le_lang['menu_item_title'] = "Login Encryption Options";
+$le_lang['renew_rsa_key'] = "Reset your RSA Key";
+$le_lang['renew_key_button'] = "Reset it";
+$le_lang['insert_own_primes'] = "Your own numbers";
+$le_lang['user_your_numbers'] = "If you wish, you can put your own prime numbers to generate the RSA keys";
+$le_lang['number_p'] = "P number:";
+$le_lang['number_q'] = "Q number:";
+$le_lang['create_key'] = "Create it";
+$le_lang['rsa_keys_reseted'] = "RSA Keys successfully reseted";
+$le_lang['rsa_keys_created_successfully'] = "RSA Keys successfully created";
+$le_lang['prime_numbers_wrong'] = "RSA Keys couldn't been generated from the given prime numbers";
+$le_lang['rsa_keys_saved_successfully'] = "Your RSA Keys were successfully saved";
+$le_lang['rsa_keys_wrong'] = "Wrong RSA Key";
+$le_lang['insert_own_key'] = "Using your own key";
+$le_lang['use_your_key'] = "If you have one, you can set up the encryption system to use your own RSA keys.";
+$le_lang['use_decimal_form'] = "<b>Note:</b> Put the decimal form of the key. If you've it in hexadecimal form, you can transform the numbers here:";
+$le_lang['modulus'] = "Modulus";
+$le_lang['public_key'] = "Public Key";
+$le_lang['private_key'] = "Private Key";
+$le_lang['save_key'] = "Save Key";
+$le_lang['transform_to_decimal'] = "Transform to Decimal";
+$le_lang['cannot_transform_to_decimal'] = "Cannot transform to decimal, number format invalid";
+$le_lang['transform'] = "Transform";
+$le_lang['change_language'] = "Set language";
+$le_lang['language'] = "Language";
+$le_lang['change_it'] = "Change";
+$le_lang['lang_updated'] = "Language was updated";
+?>
